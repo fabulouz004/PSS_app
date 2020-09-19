@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.ojtechnologiesltd.pss_class1" version="1.0.0">
-  <name>PSS_CLASS1</name>
-  <description>Phrankstars Schools Jss1 Lesson Note App.</description>
+  <name>PSS_Note</name>
+  <description>Schools  Lesson Note App.</description>
   <author href="https://www.ojtechnologiesltd" email="ojtechnologiesltd@gmail.com">OJ Technologies LTD.</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
